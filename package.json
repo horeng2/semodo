@@ -16,12 +16,17 @@
     "zod": "^4.1.12"
   },
   "devDependencies": {
+    "@prisma/config": "^6.19.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "dotenv": "^17.2.3",
     "eslint": "^9",
     "eslint-config-next": "16.0.1",
+    "postcss": "^8.5.6",
+    "prettier": "^3.6.2",
     "prisma": "^6.19.0",
     "tailwindcss": "^4",
     "typescript": "^5"

@@ -1,0 +1,10 @@
+/* src/app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 선택: 전역 기본 스타일 */
+html,
+body {
+  height: 100%;
+}
